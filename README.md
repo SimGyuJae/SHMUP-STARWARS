@@ -1,2 +1,2 @@
 # SHMUP-STARWARS
-![Alt text](/path/to/title.png)
+![Alt text](/path/title.png)
