@@ -5,7 +5,7 @@
 **STORYLINE**   
 "A long time ago in a Sogang Univ, far away...."   
 "There has to be JongGang...but where it is?"   
-"If you want JongGang, You have to Gang해져야 해"
+"If you want JongGang, You have to Gang해져야 해"   
 **CONTROLS**   
 Same as Suika game   < https://suikagame.com/ >
 Mouse click -> Drop the random Gang(which was random fruit in Suika game)   
